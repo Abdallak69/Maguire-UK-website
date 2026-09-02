@@ -1,0 +1,8 @@
+# Local tooling and editor config
+.agents/
+.claude/
+skills-lock.json
+DESIGN.md
+
+# OS
+.DS_Store
